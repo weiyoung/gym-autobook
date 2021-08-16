@@ -1,6 +1,6 @@
 # gym-autobook
 
-Due to covid-19, UBC's BirdCoop and ARC Gym now require booking for every workout session.
+Due to covid-19, UBC's BirdCoop and ARC Gyms now require booking for every workout session.
 
 <br/>
 

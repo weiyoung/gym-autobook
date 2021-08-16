@@ -8,4 +8,4 @@ Due to covid-19, UBC's BirdCoop and ARC Gym now require booking for every workou
 
 <br/>
 
-Made with [cypress.io](https://www.cypress.io/) and powered by Github Actions.
+Made with [cypress.io](https://www.cypress.io/), powered by Github Actions.

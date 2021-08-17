@@ -1,4 +1,12 @@
 {
+  "name": "gym-autobook",
+  "version": "0.0.0",
+  "repository": "https://github.com/weiyoung/gym-autobook.git",
+  "author": "weiyoung",
+  "license": "MIT",
+  "scripts": {
+    "cypress": "node_modules/.bin/cypress open"
+  },
   "dependencies": {
     "cypress": "^8.3.0"
   }

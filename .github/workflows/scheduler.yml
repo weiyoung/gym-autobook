@@ -1,0 +1,16 @@
+name: scheduler
+
+on: 
+  schedule:
+    # everyday at 1am UTC (6pm PST)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  cypress-run:
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Cypress run
+        uses: cypress-io/github-action@v2

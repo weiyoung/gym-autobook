@@ -3,7 +3,7 @@ name: scheduler
 on: 
   schedule:
     # everyday at 1am UTC (6pm PST)
-    - cron: '0 1 * * *'
+    - cron: '0 1 20 8 *'
   workflow_dispatch:
 
 jobs:
